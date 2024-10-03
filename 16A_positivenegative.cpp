@@ -3,7 +3,7 @@
 using namespace std;
  int main()
  {  float a;
-    cout<< "Enter a positive  number: "<<endl;
+    cout<< "Enter a positive number: "<<endl;
     cin>>a;
 try {
     if ( a<0)
